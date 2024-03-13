@@ -2,7 +2,7 @@ import Button from '../Button/Button'
 import { useState } from 'react';
 import './App.css'
 import Counter from '../Counter/Counter';
-import PasswordStrengthChecker from '../../PasswordStrengthChecker/PasswordStrengthChecker';
+import PasswordStrengthChecker from '../PasswordStrengthChecker/PasswordStrengthChecker';
 
 
 function App() {
